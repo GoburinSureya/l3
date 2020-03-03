@@ -1,0 +1,5 @@
+Console.writeline ("Joaozinho tem um amigo gay ele é viado ou é brother?");
+int a = console.readline();
+console.writeline("voce é gay" + a)
+
+Console.writeline("Gostar de traps lhe faz gay?")
